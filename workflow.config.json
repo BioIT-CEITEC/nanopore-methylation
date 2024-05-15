@@ -2,7 +2,7 @@
     "workflow_description": {
       "name":"nanopore_workflows",
       "version": 1.0,
-      "label":"Basecalling, alignment, and SV calling",
+      "label":"Methylation",
       "type":"run_demultiplexing",
       "inputs":"{run_dir}/*",
       "outputs":[
