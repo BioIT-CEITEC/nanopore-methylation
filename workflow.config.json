@@ -3,7 +3,7 @@
       "name":"nanopore_workflows",
       "version": 1.0,
       "label":"Methylation",
-      "type":"run_demultiplexing",
+      "type":"methylation_calling",
       "inputs":"{run_dir}/*",
       "outputs":[
         "raw_fastq/{sample}*fastq*"
